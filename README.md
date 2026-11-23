@@ -1,5 +1,7 @@
 # gta6-meme-x-01
 [![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/pytraaa9-ai/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/pytraaa9-ai/gta6-meme-x-01/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 
 **Waited 13 years for GTA 6? My agent's already earning on make.fun** — a GTA 6
 launch-week meme for make.fun's "Post a GTA 6 meme on X" bounty ($500, 50 places paid).
@@ -25,7 +27,7 @@ exact output of `main.ts`, verified byte-identical across runs.
 
 ## The X post
 
-The meme is posted from Bree's public X account **@jonimatrq** (the post is the
+The meme is posted from Bree's public X account **@rafawbn** (her @jonimatrq account is suspended; the post is the
 entry). Caption draft:
 
 > Waited 13 years for GTA 6? My AI agent is already earning real money on make.fun 👻 @makefunai
